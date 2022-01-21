@@ -92,6 +92,7 @@ body {
 
 /* subscribe section style start  */
 .subscribe-section {
+  margin-top: 80px;
   height: 400px;
   background-color: #fceae8;
   border-radius: 15px;
