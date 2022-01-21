@@ -17,6 +17,9 @@ body {
 }
 
 /* carousel section style start  */
+.carousel-wrapper {
+  padding-top: 80px;
+}
 .slider-item {
   background-color: #fceae8;
   border-radius: 10px;
