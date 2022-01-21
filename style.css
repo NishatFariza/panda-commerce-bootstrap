@@ -65,3 +65,37 @@ body {
   width: 100px;
 }
 /* category sectin style end */
+
+/* shoe section style start  */
+.product-section {
+  background-color: #f4f4f4;
+}
+.product-btn {
+  color: #ffffff;
+  padding: 9px 28px;
+  border-radius: 12px;
+  border: none;
+  background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+}
+.product-btn i {
+  font-size: 12px;
+  margin-left: 8px;
+}
+/* shoe section style end  */
+
+/* bag section style start  */
+
+/* bag section style end */
+
+/* subscribe section style start  */
+.subscribe-section {
+  height: 400px;
+  background-color: #fceae8;
+  border-radius: 15px;
+}
+.submit-btn {
+  padding: 0px 14px;
+  color: #ffffff;
+  background-image: linear-gradient(180deg, #ff589b 0%, #ff136f 100%);
+}
+/* subscribe section style end */
